@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCrudSqliteKotlin</string>
+    <string name="codigo">Codigo</string>
+    <string name="nombre">Nombres</string>
+    <string name="fono">Telefono</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Consultar">Consulta</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Elimninar</string>
+</resources>
